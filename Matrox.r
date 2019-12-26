@@ -4,11 +4,11 @@
 #Apos algumas modificacoes de formatacao dos arquivos m1 m2 m3
 
 #lendo a matriz 3x3
-a=read.csv("C:/Users/Neo/Desktop/m1x.txt") #reescrever toda vez que pegar em um novo pc
+a=read.csv("G:/m1x.txt") #reescrever toda vez que pegar em um novo pc
 #lendo a matriz 5x5
-b=read.csv("C:/Users/Neo/Desktop/m2x.txt")#reescrever toda vez que pegar em um novo pc
+b=read.csv("G:/m2x.txt")#reescrever toda vez que pegar em um novo pc
 #lendo a matriz 88x88
-c=read.csv("C:/Users/Neo/Desktop/m3x.txt")#reescrever toda vez que pegar em um novo pc
+c=read.csv("G:/m3x.txt")#reescrever toda vez que pegar em um novo pc
 
 #matrox e uma funcao que recebe como parametro um data.frame
 matrox=function(a){
